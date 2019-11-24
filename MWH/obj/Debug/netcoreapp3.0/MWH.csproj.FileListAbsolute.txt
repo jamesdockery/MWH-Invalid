@@ -1,0 +1,11 @@
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.exe
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.deps.json
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.runtimeconfig.json
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.runtimeconfig.dev.json
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.dll
+C:\Users\james\source\repos\MWH\MWH\bin\Debug\netcoreapp3.0\MWH.pdb
+C:\Users\james\source\repos\MWH\MWH\obj\Debug\netcoreapp3.0\MWH.csprojAssemblyReference.cache
+C:\Users\james\source\repos\MWH\MWH\obj\Debug\netcoreapp3.0\MWH.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\MWH\MWH\obj\Debug\netcoreapp3.0\MWH.AssemblyInfo.cs
+C:\Users\james\source\repos\MWH\MWH\obj\Debug\netcoreapp3.0\MWH.dll
+C:\Users\james\source\repos\MWH\MWH\obj\Debug\netcoreapp3.0\MWH.pdb
